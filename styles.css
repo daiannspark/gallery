@@ -1,0 +1,77 @@
+
+.header {
+    height: 100px;
+}
+#headerImg {
+    background: url(images/backgrounds/headerImg.jpg) no-repeat center center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+#logo {
+    float: left;
+    margin-left: 10px;
+}
+
+#mainNavBar {
+    text-align: center;
+}
+
+#navMenu {
+    height: 75px;
+}
+
+#navMenu {
+    margin: 25px;
+}
+
+#navMenu a {
+    border: 1px transparent;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+#navMenu a:hover {
+    background-color: aquamarine;
+}
+
+#gallery div {
+    width: 33%;
+    float: right;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+#mainTitle h1 {
+    height: 65px;
+    margin-top: 35px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#navigation a {
+    border: 1px transparent;
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+}
+
+#navigation a:hover {
+    background-color: aquamarine;
+}
